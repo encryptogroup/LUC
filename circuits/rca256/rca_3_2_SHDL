@@ -1,0 +1,769 @@
+0 input
+1 input
+2 input
+3 input
+4 input
+5 input
+6 input
+7 input
+8 input
+9 input
+10 input
+11 input
+12 input
+13 input
+14 input
+15 input
+16 input
+17 input
+18 input
+19 input
+20 input
+21 input
+22 input
+23 input
+24 input
+25 input
+26 input
+27 input
+28 input
+29 input
+30 input
+31 input
+32 input
+33 input
+34 input
+35 input
+36 input
+37 input
+38 input
+39 input
+40 input
+41 input
+42 input
+43 input
+44 input
+45 input
+46 input
+47 input
+48 input
+49 input
+50 input
+51 input
+52 input
+53 input
+54 input
+55 input
+56 input
+57 input
+58 input
+59 input
+60 input
+61 input
+62 input
+63 input
+64 input
+65 input
+66 input
+67 input
+68 input
+69 input
+70 input
+71 input
+72 input
+73 input
+74 input
+75 input
+76 input
+77 input
+78 input
+79 input
+80 input
+81 input
+82 input
+83 input
+84 input
+85 input
+86 input
+87 input
+88 input
+89 input
+90 input
+91 input
+92 input
+93 input
+94 input
+95 input
+96 input
+97 input
+98 input
+99 input
+100 input
+101 input
+102 input
+103 input
+104 input
+105 input
+106 input
+107 input
+108 input
+109 input
+110 input
+111 input
+112 input
+113 input
+114 input
+115 input
+116 input
+117 input
+118 input
+119 input
+120 input
+121 input
+122 input
+123 input
+124 input
+125 input
+126 input
+127 input
+128 input
+129 input
+130 input
+131 input
+132 input
+133 input
+134 input
+135 input
+136 input
+137 input
+138 input
+139 input
+140 input
+141 input
+142 input
+143 input
+144 input
+145 input
+146 input
+147 input
+148 input
+149 input
+150 input
+151 input
+152 input
+153 input
+154 input
+155 input
+156 input
+157 input
+158 input
+159 input
+160 input
+161 input
+162 input
+163 input
+164 input
+165 input
+166 input
+167 input
+168 input
+169 input
+170 input
+171 input
+172 input
+173 input
+174 input
+175 input
+176 input
+177 input
+178 input
+179 input
+180 input
+181 input
+182 input
+183 input
+184 input
+185 input
+186 input
+187 input
+188 input
+189 input
+190 input
+191 input
+192 input
+193 input
+194 input
+195 input
+196 input
+197 input
+198 input
+199 input
+200 input
+201 input
+202 input
+203 input
+204 input
+205 input
+206 input
+207 input
+208 input
+209 input
+210 input
+211 input
+212 input
+213 input
+214 input
+215 input
+216 input
+217 input
+218 input
+219 input
+220 input
+221 input
+222 input
+223 input
+224 input
+225 input
+226 input
+227 input
+228 input
+229 input
+230 input
+231 input
+232 input
+233 input
+234 input
+235 input
+236 input
+237 input
+238 input
+239 input
+240 input
+241 input
+242 input
+243 input
+244 input
+245 input
+246 input
+247 input
+248 input
+249 input
+250 input
+251 input
+252 input
+253 input
+254 input
+255 input
+256 input
+257 input
+258 input
+259 input
+260 input
+261 input
+262 input
+263 input
+264 input
+265 input
+266 input
+267 input
+268 input
+269 input
+270 input
+271 input
+272 input
+273 input
+274 input
+275 input
+276 input
+277 input
+278 input
+279 input
+280 input
+281 input
+282 input
+283 input
+284 input
+285 input
+286 input
+287 input
+288 input
+289 input
+290 input
+291 input
+292 input
+293 input
+294 input
+295 input
+296 input
+297 input
+298 input
+299 input
+300 input
+301 input
+302 input
+303 input
+304 input
+305 input
+306 input
+307 input
+308 input
+309 input
+310 input
+311 input
+312 input
+313 input
+314 input
+315 input
+316 input
+317 input
+318 input
+319 input
+320 input
+321 input
+322 input
+323 input
+324 input
+325 input
+326 input
+327 input
+328 input
+329 input
+330 input
+331 input
+332 input
+333 input
+334 input
+335 input
+336 input
+337 input
+338 input
+339 input
+340 input
+341 input
+342 input
+343 input
+344 input
+345 input
+346 input
+347 input
+348 input
+349 input
+350 input
+351 input
+352 input
+353 input
+354 input
+355 input
+356 input
+357 input
+358 input
+359 input
+360 input
+361 input
+362 input
+363 input
+364 input
+365 input
+366 input
+367 input
+368 input
+369 input
+370 input
+371 input
+372 input
+373 input
+374 input
+375 input
+376 input
+377 input
+378 input
+379 input
+380 input
+381 input
+382 input
+383 input
+384 input
+385 input
+386 input
+387 input
+388 input
+389 input
+390 input
+391 input
+392 input
+393 input
+394 input
+395 input
+396 input
+397 input
+398 input
+399 input
+400 input
+401 input
+402 input
+403 input
+404 input
+405 input
+406 input
+407 input
+408 input
+409 input
+410 input
+411 input
+412 input
+413 input
+414 input
+415 input
+416 input
+417 input
+418 input
+419 input
+420 input
+421 input
+422 input
+423 input
+424 input
+425 input
+426 input
+427 input
+428 input
+429 input
+430 input
+431 input
+432 input
+433 input
+434 input
+435 input
+436 input
+437 input
+438 input
+439 input
+440 input
+441 input
+442 input
+443 input
+444 input
+445 input
+446 input
+447 input
+448 input
+449 input
+450 input
+451 input
+452 input
+453 input
+454 input
+455 input
+456 input
+457 input
+458 input
+459 input
+460 input
+461 input
+462 input
+463 input
+464 input
+465 input
+466 input
+467 input
+468 input
+469 input
+470 input
+471 input
+472 input
+473 input
+474 input
+475 input
+476 input
+477 input
+478 input
+479 input
+480 input
+481 input
+482 input
+483 input
+484 input
+485 input
+486 input
+487 input
+488 input
+489 input
+490 input
+491 input
+492 input
+493 input
+494 input
+495 input
+496 input
+497 input
+498 input
+499 input
+500 input
+501 input
+502 input
+503 input
+504 input
+505 input
+506 input
+507 input
+508 input
+509 input
+510 input
+511 input
+512 513 gate arity 2 table [ 0 1 1 0 ] [ 0 0 0 1 ] inputs [ 0 256 ]
+514 515 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 513 1 257 ]
+516 517 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 515 2 258 ]
+518 519 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 517 3 259 ]
+520 521 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 519 4 260 ]
+522 523 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 521 5 261 ]
+524 525 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 523 6 262 ]
+526 527 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 525 7 263 ]
+528 529 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 527 8 264 ]
+530 531 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 529 9 265 ]
+532 533 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 531 10 266 ]
+534 535 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 533 11 267 ]
+536 537 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 535 12 268 ]
+538 539 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 537 13 269 ]
+540 541 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 539 14 270 ]
+542 543 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 541 15 271 ]
+544 545 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 543 16 272 ]
+546 547 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 545 17 273 ]
+548 549 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 547 18 274 ]
+550 551 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 549 19 275 ]
+552 553 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 551 20 276 ]
+554 555 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 553 21 277 ]
+556 557 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 555 22 278 ]
+558 559 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 557 23 279 ]
+560 561 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 559 24 280 ]
+562 563 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 561 25 281 ]
+564 565 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 563 26 282 ]
+566 567 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 565 27 283 ]
+568 569 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 567 28 284 ]
+570 571 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 569 29 285 ]
+572 573 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 571 30 286 ]
+574 575 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 573 31 287 ]
+576 577 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 575 32 288 ]
+578 579 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 577 33 289 ]
+580 581 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 579 34 290 ]
+582 583 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 581 35 291 ]
+584 585 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 583 36 292 ]
+586 587 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 585 37 293 ]
+588 589 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 587 38 294 ]
+590 591 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 589 39 295 ]
+592 593 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 591 40 296 ]
+594 595 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 593 41 297 ]
+596 597 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 595 42 298 ]
+598 599 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 597 43 299 ]
+600 601 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 599 44 300 ]
+602 603 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 601 45 301 ]
+604 605 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 603 46 302 ]
+606 607 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 605 47 303 ]
+608 609 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 607 48 304 ]
+610 611 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 609 49 305 ]
+612 613 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 611 50 306 ]
+614 615 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 613 51 307 ]
+616 617 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 615 52 308 ]
+618 619 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 617 53 309 ]
+620 621 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 619 54 310 ]
+622 623 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 621 55 311 ]
+624 625 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 623 56 312 ]
+626 627 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 625 57 313 ]
+628 629 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 627 58 314 ]
+630 631 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 629 59 315 ]
+632 633 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 631 60 316 ]
+634 635 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 633 61 317 ]
+636 637 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 635 62 318 ]
+638 639 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 637 63 319 ]
+640 641 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 639 64 320 ]
+642 643 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 641 65 321 ]
+644 645 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 643 66 322 ]
+646 647 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 645 67 323 ]
+648 649 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 647 68 324 ]
+650 651 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 649 69 325 ]
+652 653 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 651 70 326 ]
+654 655 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 653 71 327 ]
+656 657 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 655 72 328 ]
+658 659 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 657 73 329 ]
+660 661 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 659 74 330 ]
+662 663 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 661 75 331 ]
+664 665 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 663 76 332 ]
+666 667 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 665 77 333 ]
+668 669 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 667 78 334 ]
+670 671 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 669 79 335 ]
+672 673 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 671 80 336 ]
+674 675 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 673 81 337 ]
+676 677 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 675 82 338 ]
+678 679 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 677 83 339 ]
+680 681 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 679 84 340 ]
+682 683 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 681 85 341 ]
+684 685 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 683 86 342 ]
+686 687 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 685 87 343 ]
+688 689 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 687 88 344 ]
+690 691 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 689 89 345 ]
+692 693 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 691 90 346 ]
+694 695 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 693 91 347 ]
+696 697 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 695 92 348 ]
+698 699 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 697 93 349 ]
+700 701 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 699 94 350 ]
+702 703 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 701 95 351 ]
+704 705 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 703 96 352 ]
+706 707 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 705 97 353 ]
+708 709 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 707 98 354 ]
+710 711 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 709 99 355 ]
+712 713 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 711 100 356 ]
+714 715 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 713 101 357 ]
+716 717 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 715 102 358 ]
+718 719 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 717 103 359 ]
+720 721 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 719 104 360 ]
+722 723 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 721 105 361 ]
+724 725 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 723 106 362 ]
+726 727 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 725 107 363 ]
+728 729 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 727 108 364 ]
+730 731 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 729 109 365 ]
+732 733 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 731 110 366 ]
+734 735 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 733 111 367 ]
+736 737 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 735 112 368 ]
+738 739 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 737 113 369 ]
+740 741 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 739 114 370 ]
+742 743 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 741 115 371 ]
+744 745 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 743 116 372 ]
+746 747 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 745 117 373 ]
+748 749 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 747 118 374 ]
+750 751 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 749 119 375 ]
+752 753 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 751 120 376 ]
+754 755 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 753 121 377 ]
+756 757 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 755 122 378 ]
+758 759 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 757 123 379 ]
+760 761 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 759 124 380 ]
+762 763 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 761 125 381 ]
+764 765 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 763 126 382 ]
+766 767 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 765 127 383 ]
+768 769 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 767 128 384 ]
+770 771 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 769 129 385 ]
+772 773 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 771 130 386 ]
+774 775 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 773 131 387 ]
+776 777 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 775 132 388 ]
+778 779 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 777 133 389 ]
+780 781 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 779 134 390 ]
+782 783 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 781 135 391 ]
+784 785 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 783 136 392 ]
+786 787 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 785 137 393 ]
+788 789 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 787 138 394 ]
+790 791 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 789 139 395 ]
+792 793 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 791 140 396 ]
+794 795 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 793 141 397 ]
+796 797 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 795 142 398 ]
+798 799 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 797 143 399 ]
+800 801 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 799 144 400 ]
+802 803 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 801 145 401 ]
+804 805 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 803 146 402 ]
+806 807 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 805 147 403 ]
+808 809 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 807 148 404 ]
+810 811 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 809 149 405 ]
+812 813 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 811 150 406 ]
+814 815 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 813 151 407 ]
+816 817 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 815 152 408 ]
+818 819 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 817 153 409 ]
+820 821 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 819 154 410 ]
+822 823 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 821 155 411 ]
+824 825 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 823 156 412 ]
+826 827 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 825 157 413 ]
+828 829 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 827 158 414 ]
+830 831 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 829 159 415 ]
+832 833 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 831 160 416 ]
+834 835 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 833 161 417 ]
+836 837 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 835 162 418 ]
+838 839 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 837 163 419 ]
+840 841 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 839 164 420 ]
+842 843 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 841 165 421 ]
+844 845 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 843 166 422 ]
+846 847 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 845 167 423 ]
+848 849 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 847 168 424 ]
+850 851 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 849 169 425 ]
+852 853 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 851 170 426 ]
+854 855 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 853 171 427 ]
+856 857 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 855 172 428 ]
+858 859 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 857 173 429 ]
+860 861 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 859 174 430 ]
+862 863 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 861 175 431 ]
+864 865 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 863 176 432 ]
+866 867 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 865 177 433 ]
+868 869 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 867 178 434 ]
+870 871 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 869 179 435 ]
+872 873 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 871 180 436 ]
+874 875 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 873 181 437 ]
+876 877 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 875 182 438 ]
+878 879 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 877 183 439 ]
+880 881 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 879 184 440 ]
+882 883 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 881 185 441 ]
+884 885 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 883 186 442 ]
+886 887 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 885 187 443 ]
+888 889 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 887 188 444 ]
+890 891 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 889 189 445 ]
+892 893 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 891 190 446 ]
+894 895 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 893 191 447 ]
+896 897 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 895 192 448 ]
+898 899 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 897 193 449 ]
+900 901 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 899 194 450 ]
+902 903 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 901 195 451 ]
+904 905 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 903 196 452 ]
+906 907 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 905 197 453 ]
+908 909 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 907 198 454 ]
+910 911 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 909 199 455 ]
+912 913 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 911 200 456 ]
+914 915 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 913 201 457 ]
+916 917 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 915 202 458 ]
+918 919 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 917 203 459 ]
+920 921 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 919 204 460 ]
+922 923 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 921 205 461 ]
+924 925 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 923 206 462 ]
+926 927 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 925 207 463 ]
+928 929 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 927 208 464 ]
+930 931 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 929 209 465 ]
+932 933 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 931 210 466 ]
+934 935 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 933 211 467 ]
+936 937 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 935 212 468 ]
+938 939 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 937 213 469 ]
+940 941 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 939 214 470 ]
+942 943 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 941 215 471 ]
+944 945 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 943 216 472 ]
+946 947 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 945 217 473 ]
+948 949 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 947 218 474 ]
+950 951 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 949 219 475 ]
+952 953 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 951 220 476 ]
+954 955 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 953 221 477 ]
+956 957 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 955 222 478 ]
+958 959 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 957 223 479 ]
+960 961 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 959 224 480 ]
+962 963 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 961 225 481 ]
+964 965 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 963 226 482 ]
+966 967 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 965 227 483 ]
+968 969 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 967 228 484 ]
+970 971 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 969 229 485 ]
+972 973 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 971 230 486 ]
+974 975 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 973 231 487 ]
+976 977 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 975 232 488 ]
+978 979 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 977 233 489 ]
+980 981 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 979 234 490 ]
+982 983 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 981 235 491 ]
+984 985 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 983 236 492 ]
+986 987 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 985 237 493 ]
+988 989 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 987 238 494 ]
+990 991 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 989 239 495 ]
+992 993 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 991 240 496 ]
+994 995 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 993 241 497 ]
+996 997 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 995 242 498 ]
+998 999 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 997 243 499 ]
+1000 1001 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 999 244 500 ]
+1002 1003 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 1001 245 501 ]
+1004 1005 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 1003 246 502 ]
+1006 1007 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 1005 247 503 ]
+1008 1009 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 1007 248 504 ]
+1010 1011 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 1009 249 505 ]
+1012 1013 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 1011 250 506 ]
+1014 1015 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 1013 251 507 ]
+1016 1017 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 1015 252 508 ]
+1018 1019 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 1017 253 509 ]
+1020 1021 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 1019 254 510 ]
+1022 1023 gate arity 3 table [ 0 1 1 0 1 0 0 1 ] [ 0 0 0 1 0 1 1 1 ] inputs [ 1021 255 511 ]
+outputs 512 514 516 518 520 522 524 526 528 530 532 534 536 538 540 542 544 546 548 550 552 554 556 558 560 562 564 566 568 570 572 574 576 578 580 582 584 586 588 590 592 594 596 598 600 602 604 606 608 610 612 614 616 618 620 622 624 626 628 630 632 634 636 638 640 642 644 646 648 650 652 654 656 658 660 662 664 666 668 670 672 674 676 678 680 682 684 686 688 690 692 694 696 698 700 702 704 706 708 710 712 714 716 718 720 722 724 726 728 730 732 734 736 738 740 742 744 746 748 750 752 754 756 758 760 762 764 766 768 770 772 774 776 778 780 782 784 786 788 790 792 794 796 798 800 802 804 806 808 810 812 814 816 818 820 822 824 826 828 830 832 834 836 838 840 842 844 846 848 850 852 854 856 858 860 862 864 866 868 870 872 874 876 878 880 882 884 886 888 890 892 894 896 898 900 902 904 906 908 910 912 914 916 918 920 922 924 926 928 930 932 934 936 938 940 942 944 946 948 950 952 954 956 958 960 962 964 966 968 970 972 974 976 978 980 982 984 986 988 990 992 994 996 998 1000 1002 1004 1006 1008 1010 1012 1014 1016 1018 1020 1022 1023

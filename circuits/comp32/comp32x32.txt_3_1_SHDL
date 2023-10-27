@@ -1,0 +1,77 @@
+0 input
+1 input
+2 input
+3 input
+4 input
+5 input
+6 input
+7 input
+8 input
+9 input
+10 input
+11 input
+12 input
+13 input
+14 input
+15 input
+16 input
+17 input
+18 input
+19 input
+20 input
+21 input
+22 input
+23 input
+24 input
+25 input
+26 input
+27 input
+28 input
+29 input
+30 input
+31 input
+32 input
+33 input
+34 input
+35 input
+36 input
+37 input
+38 input
+39 input
+40 input
+41 input
+42 input
+43 input
+44 input
+45 input
+46 input
+47 input
+48 input
+49 input
+50 input
+51 input
+52 input
+53 input
+54 input
+55 input
+56 input
+57 input
+58 input
+59 input
+60 input
+61 input
+62 input
+63 input
+64 gate arity 2 table [ 0 1 0 0 ] inputs [ 25 26 ]
+65 gate arity 2 table [ 1 0 0 0 ] inputs [ 57 58 ]
+66 67 gate arity 3 table [ 0 0 1 0 0 0 0 0 ] [ 0 1 0 0 0 1 0 0 ] inputs [ 24 27 59 ]
+68 gate arity 2 table [ 0 0 1 0 ] inputs [ 62 63 ]
+69 gate arity 3 table [ 0 1 0 0 0 0 0 0 ] inputs [ 28 29 61 ]
+70 gate arity 2 table [ 0 0 1 0 ] inputs [ 22 55 ]
+71 gate arity 3 table [ 1 0 1 0 1 0 0 0 ] inputs [ 64 65 66 ]
+72 gate arity 3 table [ 0 0 0 0 0 1 0 0 ] inputs [ 68 30 31 ]
+73 gate arity 3 table [ 0 0 1 0 0 0 0 0 ] inputs [ 67 23 54 ]
+74 gate arity 3 table [ 0 0 1 1 0 0 1 0 ] inputs [ 69 70 60 ]
+75 gate arity 3 table [ 0 1 0 0 0 0 0 0 ] inputs [ 71 72 73 ]
+76 gate arity 2 table [ 1 1 1 0 ] inputs [ 75 74 ]
+outputs 76
