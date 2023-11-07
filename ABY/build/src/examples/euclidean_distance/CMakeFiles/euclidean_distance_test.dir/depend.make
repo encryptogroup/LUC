@@ -1,2 +1,0 @@
-# Empty dependencies file for euclidean_distance_test.
-# This may be replaced when dependencies are built.
