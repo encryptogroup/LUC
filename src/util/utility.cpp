@@ -8,7 +8,9 @@ void tokenize(const string& str, vector<string>& tokens) {
 	string::size_type last_pos = str.find_first_not_of(delimiter, 0);
 	string::size_type pos = str.find_first_of(delimiter, last_pos);
 	while (string::npos != pos || string::npos != last_pos) {
-		tokens.push_back(str.substr(last_pos, pos - last_pos).c_str());
+        std::string tokenstring = str.substr(last_pos, pos - last_pos).c_str();
+        tokenstring.erase( std::remove(tokenstring.begin(), tokenstring.end(), '\r'), tokenstring.end() );
+		tokens.push_back(tokenstring);
 		last_pos = str.find_first_not_of(delimiter, pos);
 		pos = str.find_first_of(delimiter, last_pos);
 	}
