@@ -184,30 +184,45 @@ void Liu2Way::edge_embed_gamma1(DAG* g) {
 void Liu2Way::remove_x_switches() {
     for (Liu2Way::Node* node : nodes) {
         if (node->type == "x" && node->in_edges.size() == 1) {
-            // We have an unnecessary x switch
             ValiantBase::Edge* e_in = node->in_edges[0];
             ValiantBase::Edge* e_out = node->out_edges[0];
+
+            auto e_in_from = e_in->from;
+            auto e_in_from_slot = e_in->from_slot;
+            auto e_out_to = e_out->to;
+            auto e_out_to_slot = e_out->to_slot;
+
             remove_edge(e_in);
             remove_edge(e_out);
-            add_edge(e_in->from, e_out->to, e_in->from_slot, e_out->to_slot);
-            ValiantBase::Node* child = e_out->to;
+
+            add_edge(e_in_from, e_out_to, e_in_from_slot, e_out_to_slot);
+            ValiantBase::Node* child = e_out_to;
+
             if (child->type == "y") {
-				// Why check type x here?
                 if ((child->get_parent(true) == child->get_parent(0)) && (child->get_parent(1)->type == "x")) {
-                    // Merge them to one node (by removing parent node)
-                    ValiantBase::Node* parent = e_in->from;
+                    ValiantBase::Node* parent = e_in_from; // Use cached value
+
                     ValiantBase::Edge* parent_left_in_edge = parent->get_in_edge(1);
                     ValiantBase::Edge* parent_right_in_edge = parent->get_in_edge(0);
+
+                    auto pl_from = parent_left_in_edge->from;
+                    auto pl_slot = parent_left_in_edge->from_slot;
+                    auto pr_from = parent_right_in_edge->from;
+                    auto pr_slot = parent_right_in_edge->from_slot;
+
                     // remove old out edges of parents of parent
                     remove_edge(parent_left_in_edge);
                     remove_edge(parent_right_in_edge);
-                    // remove old in edges of child
-                    remove_edge(child->in_edges[0]);
-                    remove_edge(child->in_edges[1]);
-                    // add the edges skipping parent
-                    add_edge(parent_left_in_edge->from, child, parent_left_in_edge->from_slot, 1);
-                    add_edge(parent_right_in_edge->from, child, parent_right_in_edge->from_slot, 0);
-                    // set control bit correctly (if parents swapped wires, we have to swap too)
+
+                    ValiantBase::Edge* child_in_0 = child->in_edges.size() > 0 ? child->in_edges[0] : nullptr;
+                    ValiantBase::Edge* child_in_1 = child->in_edges.size() > 1 ? child->in_edges[1] : nullptr;
+
+                    if (child_in_0) remove_edge(child_in_0);
+                    if (child_in_1) remove_edge(child_in_1);
+
+                    add_edge(pl_from, child, pl_slot, 1);
+                    add_edge(pr_from, child, pr_slot, 0);
+
                     if (parent->control_bit == 1) {
                         child->control_bit = 1 - child->control_bit;
                     }
